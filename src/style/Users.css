@@ -1,0 +1,25 @@
+.users-container {
+	width: 70%;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+
+.users-load-more {
+	margin: 0 auto;
+}
+
+.users-loading-show-false {
+	display: none;
+}
+
+.users-loading-show-true {
+	display: block;
+}
+
+.users-container-show-false {
+	opacity: 0.2;
+}
+
+.users-container-show-true {
+	opacity: 1;
+}
